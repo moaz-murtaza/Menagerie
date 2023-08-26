@@ -2,7 +2,7 @@
 Making of a game Menagerie (Candy Crush) type using c++ and SFML
 
 Description:
-We are going to make a menagerie (Video of sample app is shared on google classroom)
+We are going to make a menagerie
 where there are different animals. We are supposed to let user make a chain of animals of
 same species and count the number of animals belonging to different species. Please be noted
 whenever atleast three animals of same species are found by the user (a chain is formed)
